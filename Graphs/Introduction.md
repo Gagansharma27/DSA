@@ -5,3 +5,5 @@ A Graph is a non-linear data structure consisting of vertices and edges. The ver
 1. Nodes in graphd can have more than 1 parent/neighbours.
 2. Graph can have cycles
 3. Graph has no heirarchy
+
+Max no. of Edges possible if N nodes are present in graph = N\*(N-1)/2
